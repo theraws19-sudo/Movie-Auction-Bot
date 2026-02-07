@@ -151,7 +151,7 @@ overview: Two imprisoned men bond over a number of years...
 ### Running the Bot
 
 ```bash
-python movie_bot_improved.py
+python bot_main.py
 ```
 
 The bot will start and display:
