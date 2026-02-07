@@ -1,4 +1,4 @@
-# 🎬 Movie AuctionBot
+# 🎬 Movie Auction Bot
 
 A feature-rich Telegram bot that helps users discover and explore movies from a curated database of 1,000 films spanning from 1920 to 2020.
 
